@@ -1,0 +1,4 @@
+#Thu Mar 25 11:18:14 MSK 2021
+base.0=C\:\\Users\\isip_\\AndroidStudioProjects\\WidgetMVVM\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
